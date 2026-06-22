@@ -4,7 +4,7 @@ This repository contains a comprehensive retail data science project focusing on
 
 ---
 
-## 📊 Key Project Insights
+##  Key Project Insights
 
 Through extensive exploratory analysis and statistical modeling of the transaction history, we discovered several critical drivers of sales volume and profitability:
 
@@ -34,7 +34,7 @@ The final metrics comparison is summarized below:
 
 ---
 
-## 💡 Strategic Business Recommendations
+##  Strategic Business Recommendations
 
 Based on these findings, we recommend the following three strategies to optimize supermarket operations:
 
@@ -49,7 +49,7 @@ Based on these findings, we recommend the following three strategies to optimize
 
 ---
 
-## 🛠️ Project Structure & Engineering Additions
+##  Project Structure & Engineering Additions
 
 The project Jupyter notebook [AIML_PROJECT.ipynb](file:///Users/soniyamalviya/Desktop/SME/AIML_PROJECT.ipynb) includes several advanced data science steps:
 *   **Preprocessing:** Outlier handling using the IQR method (capped to preserve time series continuity), missing value matrix plots, and scaling via `MinMaxScaler` / `StandardScaler`.
