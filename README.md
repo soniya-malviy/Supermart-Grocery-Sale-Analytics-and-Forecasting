@@ -2,6 +2,9 @@
 
 This repository contains a comprehensive retail data science project focusing on **Exploratory Data Analysis (EDA)**, **Feature Engineering**, and **Time Series Forecasting** of grocery sales using transactional records spanning from 2015 to 2018.
 
+Demo:
+
+https://www.loom.com/share/8bf8b5b70e3a40f2ab576eee3458e08d
 ---
 
 ##  Key Project Insights
